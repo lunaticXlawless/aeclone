@@ -1,0 +1,8 @@
+{
+  "name": "Aeclone",
+  "description": "Aeclone is a modern cloud-storage management project for connecting, organizing, syncing, backing up, and managing files across supported storage backends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
